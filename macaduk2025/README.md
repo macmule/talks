@@ -114,7 +114,11 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 		- man pkgbuild
 		- [What is the difference between pkgbuild vs productbuild?](https://stackoverflow.com/a/75485329)
 - Slide 31:
-	Slide 28 repeated.
+	- Slide 28 repeated.
+- Slide 31a - addendum.
+	- Content:
+		- Correction from [@rtrouton](https://github.com/rtrouton/) - https://macadmins.slack.com/archives/C0EE348SD/p1747233252403309
+		- [Preparing installer packages for installation using MDM commands](https://derflounder.wordpress.com/2023/10/24/preparing-installer-packages-for-installation-using-mdm-commands/)
 - Slide 32:
 	- Prompt:
 		- Cartoon drawing with nothing in the middle, bordered by packages.
