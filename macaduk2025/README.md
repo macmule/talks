@@ -15,7 +15,7 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 		- [deepai Super Resolution](https://deepai.org/machine-learning-model/torch-srgan)
 - Slide 4:
 	- Prompt:
-	 - Large green chalk board cartoon in a factory with boxes.
+		- Large green chalk board cartoon in a factory with boxes.
 - Slide 5:
 	- Prompt:
 		- Cartoon drawing of a large empty sign on Brighton beach, England. With the piers fairground in the far distance, the sign to the left and some seagulls.
@@ -53,7 +53,7 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 	- Content:
 		- [Flat Package Format - The missing documentation](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 - Slide 15:
-	Slide 6 repeated.
+	- Slide 6 repeated.
 - Slide 16:
 	- Prompt:
 		- Cartoon drawing of a table in a warehouse with packages surrounding and a Mac in the centre of the screen with a blank screen.
@@ -76,21 +76,21 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 		- man lsbom
 		- man tar
 - Slide 21:
-	Slide 19 repeated.
+	- Slide 19 repeated.
 - Slide 22:
 	- Prompt:
 		- Cartoon drawing of a table in a warehouse with packages surrounding and a Macbook in the centre of the screen with a blank screen.
 	- Content:
 		- [Composer User Guide](https://learn.jamf.com/en-US/bundle/composer-user-guide-current/page/Composer_Overview.html)
 - Slide 23:
-	Slide 19 repeated.
+	- Slide 19 repeated.
 - Slide 24:
 	- Prompt:
 		- Cartoon drawing of a table in a warehouse with packages surrounding and a Mac in the centre of the screen with a blank screen.
 	- Content:
 		- [Pacifist.](https://www.charlessoft.com)
 - Slide 25:
-	Slide 19 repeated.
+	- Slide 19 repeated.
 - Slide 26:
 	- Prompt:
 		- Cartoon drawing of a table in a warehouse with packages surrounding and a Mac in the centre of the screen with a blank screen.
@@ -113,7 +113,7 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 		- man pkgbuild
 		- [What is the difference between pkgbuild vs productbuild?](https://stackoverflow.com/a/75485329)
 - Slide 31:
-	Slide 28 repeated.
+	- Slide 28 repeated.
 - Slide 32:
 	- Prompt:
 		- Cartoon drawing with nothing in the middle, bordered by packages.
@@ -123,7 +123,7 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 	- Content:
 		- [Composer User Guide](https://learn.jamf.com/en-US/bundle/composer-user-guide-current/page/Composer_Overview.html)
 - Slide 34:
-	Slide 28 repeated.
+	- Slide 28 repeated.
 - Slide 35:
 	- Prompt:
 		- Cartoon drawing of a table in a warehouse with packages surrounding and a Mac in the centre of the screen with a blank screen.
@@ -162,7 +162,7 @@ Repo for links from the macad.uk 2025 talk "P is for packages"
 	- Prompt:
 		- Cartoon drawing of packages for a celebration with confetti. Text: "Thank you!!"
 - Slide 44:
-	Slide 4 repeated.
+	- Slide 4 repeated.
 - Slide 45:
 	- Content:
 		- [10th July 2025 - Meet Up @ Jamf](https://londonappleadmins.org.uk/2025/05/12/10th-july-2024-meet-up-jamf/)
