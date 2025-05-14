@@ -1,7 +1,6 @@
 # macaduk2025
 Repo for links from the macad.uk 2025 talk "P is for packages"
 
-## Intro
 - Slide 1:
 	- Prompt:
 		- Children's alphabet card for the letter P, with the text at the bottom "is for packages." in a cartoon style with boxes.
