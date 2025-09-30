@@ -7,7 +7,7 @@ Repo of links for the JNUC 2025 talk: "P is for packages"
 - [Migrating Packages and Scripts](https://web.archive.org/web/20151203161612/https://jamfnation.jamfsoftware.com/article.html?id=327)
 - [Flat packages for Adobe Templates](https://community.adobe.com/t5/enterprise-teams-discussions/new-packaging-features-on-the-adobe-admin-console/m-p/13877948)
 - [Flat Package Format - The missing documentation](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
-- [Decide on a container format]((https://developer.apple.com/documentation/xcode/packaging-mac-software-for-distribution#Decide-on-a-container-format))
+- [Decide on a container format](https://developer.apple.com/documentation/xcode/packaging-mac-software-for-distribution#Decide-on-a-container-format)
 
 ## Inspecting packages
 - [Composer User Guide](https://learn.jamf.com/en-US/bundle/composer-user-guide-current/page/Composer_Overview.html)
